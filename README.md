@@ -1,16 +1,26 @@
-# bmi_app
+## BMI and Age Calculator App
+Welcome to the BMI and Age Calculator App, a simple and efficient mobile application that allows users to calculate their Body Mass Index (BMI) and age based on the entered weight, height, and birthdate.
 
-A new Flutter project.
+Features:
+BMI Calculation: Users can enter their weight and height to calculate their Body Mass Index (BMI).
 
-## Getting Started
+Age Calculation: Users can input their birthdate to calculate their current age.
 
-This project is a starting point for a Flutter application.
+Easy-to-use and intuitive interface.
 
-A few resources to get you started if this is your first Flutter project:
+Instant results with clear feedback.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Technologies Used:
+Flutter for building the cross-platform mobile app.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Dart for app logic and calculations.
+
+Installation
+Prerequisites:
+Make sure you have the following installed before setting up the project:
+
+Flutter (Make sure you have Flutter SDK installed and configured).
+
+Dart (Comes with Flutter).
+
+Android Studio or Visual Studio Code (For development).
