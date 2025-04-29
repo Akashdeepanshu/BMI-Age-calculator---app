@@ -12,10 +12,9 @@ Instant results with clear feedback.
 
 Technologies Used:
 Flutter for building the cross-platform mobile app.
-
 Dart for app logic and calculations.
 
-Installation
+
 Prerequisites:
 Make sure you have the following installed before setting up the project:
 
